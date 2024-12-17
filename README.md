@@ -1,5 +1,5 @@
 # TP-Aprendizaje-Automático
-Trabajo práctico de la materia Aprendizaje Automático (FIUBA) correspondiente a los alumnos: 
+Repositorio que contiene el trabajo práctico de la materia Aprendizaje Automático (Cátedra Merlino) correspondiente a los alumnos: 
 - Daniela Ojeda.
 - Iván Erlich.
 - Cristian Lin.
