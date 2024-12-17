@@ -1,4 +1,4 @@
-# TP---Aprendizaje-Automático
+# TP-Aprendizaje-Automático
 Trabajo práctico de la materia Aprendizaje Automático (FIUBA) correspondiente a los alumnos: 
 - Daniela Ojeda.
 - Iván Erlich.
